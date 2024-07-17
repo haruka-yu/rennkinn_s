@@ -13,6 +13,7 @@ function kagaku(){
 
 
 
+
 */
 function yakugaku(){
     const question = {"次の図にある化学式について正しいものを選択群から選びなさい":1,}
